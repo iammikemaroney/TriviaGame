@@ -1,0 +1,70 @@
+body {
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-color: #000;
+    text-align: center;
+    color: #192C47;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+}
+
+#container {
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#row {
+    background-color: #92DCFF;
+    margin-top: 350px;
+    margin-bottom: 100px;
+    padding: 50px;
+    border: 10px solid;
+    border-color: #0093C6;
+}
+
+#timer {
+    color: #192C47;
+    font-family: 'Oswald', sans-serif;
+    background-color: #F7DC1B;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    color: #0093C6;
+    font-size: 64px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0px;
+    border-bottom: 10px solid;
+    border-color: #0093C6;
+    text-shadow: 3px 3px #FFF;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: #192C47;
+    font-size: 24px;
+    clear: both;
+    padding-top: 20px;
+}
+
+label {
+    font-family: 'Oswald', sans-serif;
+    color: #192C47;
+    font-size: 22px;
+    display: block;
+    font-weight: normal;
+}
+
+input {
+    width: 30px;
+    margin-left: 20px;
+}
